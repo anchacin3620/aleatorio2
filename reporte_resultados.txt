@@ -1,0 +1,32 @@
+RESULTADOS DEL ANÁLISIS DE SIMULACIONES
+========================================
+
+Resultados para Fe:
+Promedio - Rugosidad: 6.9579 ± 2.5632
+Promedio - Espesor: 9.3492 ± 5.2723
+Promedio - Altura máxima: 25.0833 ± 6.6641
+Promedio - Cobertura (> 10): 41.07% ± 26.86%
+Promedio - Cobertura (> 20): 15.59% ± 16.38%
+Promedio - Cobertura (> 30): 0.00% ± 0.00%
+Promedio - Cobertura (> 60): 0.00% ± 0.00%
+Distribución de etapas (%):
+  nucleacion: 0.00%
+  coalescencia: 33.33%
+  crecimiento: 66.67%
+
+Resultados para Cr:
+Promedio - Rugosidad: 6.8720 ± 2.5837
+Promedio - Espesor: 9.2112 ± 5.2160
+Promedio - Altura máxima: 24.3333 ± 6.9801
+Promedio - Cobertura (> 10): 40.24% ± 26.52%
+Promedio - Cobertura (> 20): 15.45% ± 16.43%
+Promedio - Cobertura (> 30): 0.00% ± 0.00%
+Promedio - Cobertura (> 60): 0.00% ± 0.00%
+Distribución de etapas (%):
+  nucleacion: 0.00%
+  coalescencia: 33.33%
+  crecimiento: 66.67%
+
+Total de simulaciones Fe: 12
+Total de simulaciones Cr: 12
+Total de simulaciones: 24
